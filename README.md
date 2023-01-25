@@ -1,2 +1,2 @@
 # Dog-Vue-Tailwind
- A website for a dog shop made using Vue and Tailwind for a university assignment
+ A university assignment where I made a website for a dog shop using Vue and Tailwind
