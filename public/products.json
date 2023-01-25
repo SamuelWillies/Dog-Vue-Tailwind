@@ -1,0 +1,52 @@
+{
+    "items": [
+    {
+        "id": 1,
+        "name": "Harringtons Grain Free Chicken Adult 15kg",
+        "description": "Harringtons provides guaranteed quality!",
+        "image": "dog-food-1.png",
+        "price": 9.99,
+        "endOfLife": false
+    },
+    {
+        "id": 2,
+        "name": "DogWalker Lead",
+        "description": "This DogWalker Lead is made out of high quality materials that will ensure it lasts at least 10 years",
+        "image": "product-lead.png",
+        "price": 5.99,
+        "endOfLife": true
+    },
+    {
+        "id": 3,
+        "name": "DogWalker Harness",
+        "description": "This DogWalker Harness is specially made to ensure that your dog will never get free! Walk your dog without a care in the world",
+        "image": "product-harness.png",
+        "price": 12.99,
+        "endOfLife": false
+    },
+    {
+        "id": 4,
+        "name": "Best In Show Bamboo Dog Food Bowl",
+        "description": "Your dogs will enjoy delicious meals from this!",
+        "image": "product-bowl-1.png",
+        "price": 20.99,
+        "endOfLife": true
+    },
+    {
+        "id": 5,
+        "name": "Kingdom Pack of 2x Squeaky Bones",
+        "description": "Get some fun squeaky bones for your dog!",
+        "image": "product-toy-1.png",
+        "price": 5.99,
+        "endOfLife": true
+    },
+    {
+        "id": 6,
+        "name": "Felix Original with Beef In Jelly 250g",
+        "description": "Felix provides very high quality cat food!",
+        "image": "cat-food-1.png",
+        "price": 2.99,
+        "endOfLife": false
+    }
+    ]
+}

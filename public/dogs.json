@@ -1,0 +1,68 @@
+{
+    "items": [
+    {
+        "id": 1,
+        "name": "Roger",
+        "description": "Very energetic dog who loves a bright sunny day",
+        "age": 8,
+        "breed": "Labrador",
+        "image": "dog-4.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Trevor",
+        "description": "Lovely young dog who loves the beach",
+        "age": 5,
+        "breed": "German Shepherd",
+        "image": "dog-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Greg",
+        "description": "Very sleepy but loving",
+        "age": 2,
+        "breed": "Pug",
+        "image": "dog-5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fred",
+        "description": "Loves playing with children",
+        "age": 7,
+        "breed": "Border Collie",
+        "image": "dog-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bruce",
+        "description": "Lazy but prideful dog",
+        "age": 4,
+        "breed": "Boxer Dog",
+        "image": "dog-3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Robert",
+        "description": "Enjoys play fighting",
+        "age": 2,
+        "breed": "Golden Retriever",
+        "image": "dog-6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Pete",
+        "description": "Loves nice long walks",
+        "age": 3,
+        "breed": "Siberian Husky",
+        "image": "dog-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Buttons",
+        "description": "Friendly young fellow",
+        "age": 2,
+        "breed": "Rottweiler",
+        "image": "dog-8.jpg"
+    }
+    ]
+}

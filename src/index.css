@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    a {
+        @apply text-gray-200 mx-2 w-full hover:text-white
+    }
+    body {
+        @apply bg-bg text-gray-200
+    }
+    .dog {
+        @apply rounded m-2 bg-bgcard p-1
+    }
+    .breed {
+        @apply rounded m-2 bg-bgcard p-1 max-w-md mx-auto p-1 mb-2
+    }
+    .content {
+        @apply max-w-7xl mx-auto px-2
+    }
+    .product {
+        @apply rounded m-2 p-2 text-white
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "tips": [
+    {
+        "id": 1,
+        "title": "Brush your dog's teeth",
+        "description": "Brushing your dog's teeth is often overlooked, but hugely important to their overall health and avoiding expensive dental treatments in the future. Make this a part of their normal routine and make sure to use a toothpaste made specifically for dogs. With a little bit of time and training, teeth brushing can be a fun activity for your pet every day!"
+    },
+    {
+        "id": 2,
+        "title": "Walk your dog for both their health and happiness",
+        "description": "Regular walks provide many benefits for your dog, including preventing boredom, helping the digestive tract, keeping them at a healthier weight, and helping them to burn off excess energy. By giving them a constructive outlet, you may find bad behaviors, like chewing, barking or digging, decrease too."
+    },
+    {
+        "id": 3,
+        "title": "Be a friend to your dog",
+        "description": "Dogs need love and affection to thrive. Make sure they're spending plenty of time inside with you and your family. Give them attention, treats, and play games with them."
+    },
+    {
+        "id": 4,
+        "title": "Hang out with them while they eat",
+        "description": "Dogs are by nature pack animals and you're their pack. Stay near them when they eat and make this an ongoing communal act. Picky eaters might also show more interest in their food when they see you take an interest."
+    },
+    {
+        "id": 5,
+        "title": "Immediately correct bad behavior",
+        "description": "Dogs have a short memory and if you scold them for doing something wrong five minutes later, they will not correlate the scolding with the bad behavior. Reprimand them only if you catch them in the act. On the other hand, always give your dog positive feedback and rewards right away for good behavior to encourage the repetition of this behavior."
+    },
+    {
+        "id": 6,
+        "title": "Touch your dog's nose",
+        "description": "Your dog's nose should feel wet. The level of moisture will vary between dogs and by time of year, but a healthy dog will have a cool and slightly wet nose because dogs secrete sweat through their nose to cool down."
+    }
+    ]
+}
